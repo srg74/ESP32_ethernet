@@ -8,3 +8,20 @@ It's a small form factor board that adds 10/100Mbps Ethernet to your DIY project
 I appreciate your support for my project! [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VU7L89Z2RR7S4&source=url)
 
 ![Board](https://github.com/srg74/ESP32_ethernet/blob/main/Resources/images/ESP32%20ethernet_front.png)
+
+## ESP32 Ethernet board have following features:
+
+- LAN8720 chip;
+- Ethernet connector with convinient pin on top;
+- Power auto enable;
+- 5V oltage input;
+- Dedicated LDO 3.3V;
+- 3.3V(CMOS) logic levels;
+
+Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP32-pico/blob/main/images/tindie-logo@2x.png)](https://www.tindie.com/products/30048/)
+
+### ESP32 Ethernet board reference documents
+
+- [Pinout](https://github.com/srg74/ESP32_ethernet/blob/main/Resources/images/ESP32%20ethernet%20pinout.pdf) diagram
+- [Schematic](https://github.com/srg74/ESP32_ethernet/blob/main/Resources/images/Schematic.pdf)
+- [Data sheet](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/00002165B.pdf) - LAN8720 data sheet
