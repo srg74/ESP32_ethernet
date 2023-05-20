@@ -7,4 +7,4 @@ It's a small form factor board that adds 10/100Mbps Ethernet to your DIY project
 
 I appreciate your support for my project! [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VU7L89Z2RR7S4&source=url)
 
-![Board](https://github.com/srg74/ESP32_ethernet/blob/main/resources/images/ESP32%20ethernet_front.png)
+![Board](https://github.com/srg74/ESP32_ethernet/blob/main/Resources/images/ESP32%20ethernet_front.png)
