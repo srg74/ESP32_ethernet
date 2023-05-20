@@ -25,4 +25,4 @@ Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP3
 - [Pinout](https://github.com/srg74/ESP32_ethernet/blob/main/Resources/images/ESP32%20ethernet%20pinout.pdf) diagram
 - [Schematic](https://github.com/srg74/ESP32_ethernet/blob/main/Resources/images/Schematic.pdf)
 - [Data sheet](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/00002165B.pdf) - LAN8720 data sheet
-- [ArduninoEspressif32 ETH library example](https://github.com/srg74/ESP32_ethernet/blob/main/Resources/images/arduino.png)
+- [ArduninoEspressif32 ETH library example](https://github.com/srg74/ESP32_ethernet/blob/main/Resources/readme.md)
