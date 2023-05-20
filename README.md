@@ -18,10 +18,11 @@ I appreciate your support for my project! [![](https://www.paypalobjects.com/en_
 - Dedicated LDO 3.3V;
 - 3.3V(CMOS) logic levels;
 
-Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP32-pico/blob/main/images/tindie-logo@2x.png)](https://www.tindie.com/products/30048/)
+Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP32-pico/blob/main/images/tindie-logo@2x.png)](https://www.tindie.com/stores/serg74/)
 
 ### ESP32 Ethernet board reference documents
 
 - [Pinout](https://github.com/srg74/ESP32_ethernet/blob/main/Resources/images/ESP32%20ethernet%20pinout.pdf) diagram
 - [Schematic](https://github.com/srg74/ESP32_ethernet/blob/main/Resources/images/Schematic.pdf)
 - [Data sheet](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/00002165B.pdf) - LAN8720 data sheet
+- [ArduninoEspressif32 ETH library example](https://github.com/srg74/ESP32_ethernet/blob/main/Resources/images/arduino.png)
