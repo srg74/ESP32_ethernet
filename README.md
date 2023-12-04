@@ -14,8 +14,8 @@ I appreciate your support for my project! [![](https://www.paypalobjects.com/en_
 - LAN8720 chip;
 - Ethernet connector with convinient pin on top;
 - Power auto enable;
-- 5V oltage input;
-- Dedicated LDO 3.3V;
+- 5V voltage input;
+- On board LDO 3.3V;
 - 3.3V(CMOS) logic levels;
 
 Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP32-pico/blob/main/images/tindie-logo@2x.png)](https://www.tindie.com/stores/serg74/)
