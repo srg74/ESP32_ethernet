@@ -23,3 +23,40 @@ ETH.begin(
 |GPIO25|ETH RXD0||
 |GPIO26|ETH RXD1||
 |GPIO27|ETH CRS_DV||
+
+## ESPhome example
+```
+esphome:
+  name: esp32-ethernet
+  friendly_name: esp32-ethernet
+
+esp32:
+  board: esp32dev
+  framework:
+    type: arduino
+
+# Enable logging
+logger:
+
+# Enable Home Assistant API
+api:
+  encryption:
+    key:
+
+ota:
+  password:
+
+ethernet:
+  type: LAN8720
+  mdc_pin: GPIO23
+  mdio_pin: GPIO18
+  clk_mode: GPIO17_OUT
+  phy_addr: 1
+  power_pin: GPIO5
+
+  # Optional manual IP
+  # manual_ip:
+  #   static_ip: 192.168.0.100
+  #   gateway: 192.168.0.1
+  #   subnet: 255.255.255.0
+```
